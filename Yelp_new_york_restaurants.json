@@ -1,0 +1,2213 @@
+[
+  {
+    "id": "DGhWO1sUWydVeR5j5ZZaMw",
+    "alias": "la-grande-boucherie-new-york-2",
+    "name": "La Grande Boucherie",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/b9URGcuuhnLq7J-__pHIng/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/la-grande-boucherie-new-york-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 4041,
+    "categories": [
+      {
+        "alias": "french",
+        "title": "French"
+      },
+      {
+        "alias": "steak",
+        "title": "Steakhouses"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 40.7626274,
+      "longitude": -73.98084109999999
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "145 W 53rd St",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10019",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "145 W 53rd St",
+        "New York, NY 10019"
+      ]
+    },
+    "phone": "+12125107714",
+    "display_phone": "(212) 510-7714",
+    "distance": 6447.196690217016,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://lagrandeboucherie.site/our-menu/",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "16ZnHpuaaBt92XWeJHCC5A",
+    "alias": "olio-e-pi\u00f9-new-york-7",
+    "name": "Olio e Pi\u00f9",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/CUpPgz_Q4QBHxxxxDJJTTA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/olio-e-pi%C3%B9-new-york-7?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 6717,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.73406231935954,
+      "longitude": -73.99999980859876
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "3 Greenwich Ave",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10014",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "3 Greenwich Ave",
+        "New York, NY 10014"
+      ]
+    },
+    "phone": "+12122436546",
+    "display_phone": "(212) 243-6546",
+    "distance": 3207.585573981827,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.olioepiu.com/nyc-menu/",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "zRXMvxUX_rOliKZPpkWi_g",
+    "alias": "valerie-new-york",
+    "name": "Valerie",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/mnH5QFkSMzZgd6P5eSZvvw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/valerie-new-york?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 1231,
+    "categories": [
+      {
+        "alias": "newamerican",
+        "title": "New American"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.3,
+    "coordinates": {
+      "latitude": 40.756326,
+      "longitude": -73.981117
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "45 W 45th St between 5th & 6th Ave",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10036",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "45 W 45th St between 5th & 6th Ave",
+        "New York, NY 10036"
+      ]
+    },
+    "phone": "+12123024545",
+    "display_phone": "(212) 302-4545",
+    "distance": 5758.012347666175,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": true,
+            "start": "1130",
+            "end": "0200",
+            "day": 1
+          },
+          {
+            "is_overnight": true,
+            "start": "1130",
+            "end": "0200",
+            "day": 2
+          },
+          {
+            "is_overnight": true,
+            "start": "1130",
+            "end": "0200",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "1130",
+            "end": "0200",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.valerienewyorkcity.com/menus/",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "Nk3vYwmwsTtddMCdUAUhqw",
+    "alias": "the-corner-store-new-york",
+    "name": "The Corner Store",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/JTTfAZQfhtuJDfuTmaxYFQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-corner-store-new-york?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 66,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "tradamerican",
+        "title": "American"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 40.726633,
+      "longitude": -73.999918
+    },
+    "transactions": [],
+    "location": {
+      "address1": "475 W Broadway",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10012",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "475 W Broadway",
+        "New York, NY 10012"
+      ]
+    },
+    "phone": "+12122719240",
+    "display_phone": "(212) 271-9240",
+    "distance": 2390.390083632055,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.thecornerstoresoho.com/menus/",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "jAaVnUKLITkuhzwXIe0vLQ",
+    "alias": "cafe-mogador-brooklyn",
+    "name": "Cafe Mogador",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/VBnUZZwAdMsf0geE-OuTNw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cafe-mogador-brooklyn?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 1547,
+    "categories": [
+      {
+        "alias": "moroccan",
+        "title": "Moroccan"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "mediterranean",
+        "title": "Mediterranean"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 40.719747,
+      "longitude": -73.959993
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "133 Wythe Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11211",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "133 Wythe Ave",
+        "Brooklyn, NY 11211"
+      ]
+    },
+    "phone": "+17184869222",
+    "display_phone": "(718) 486-9222",
+    "distance": 3291.949556948652,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2300",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2300",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2300",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2300",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0930",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0930",
+            "end": "2300",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://static1.squarespace.com/static/571da513c2ea511fcc0e4e6e/t/5fef6901dac66e1e16b292a6/1609525505904/Final+Menu+*-+Food+%2B+Drinks+%281%29.pdf",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "dEOv8_ivdHp85OK_TDQh_g",
+    "alias": "da-andrea-chelsea-new-york-3",
+    "name": "Da Andrea - Chelsea",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/8P1kzXbIAmQU3Qy4wN0dLg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/da-andrea-chelsea-new-york-3?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 602,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "wine_bars",
+        "title": "Wine Bars"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.7,
+    "coordinates": {
+      "latitude": 40.742041,
+      "longitude": -74.000467
+    },
+    "transactions": [
+      "pickup",
+      "restaurant_reservation",
+      "delivery"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "160 8th Ave",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10011",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "160 8th Ave",
+        "New York, NY 10011"
+      ]
+    },
+    "phone": "+12123545971",
+    "display_phone": "(212) 354-5971",
+    "distance": 4090.350456272003,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://daandreanyc.com/chelsea/",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "jjJc_CrkB2HodEinB6cWww",
+    "alias": "lovemama-new-york",
+    "name": "LoveMama",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/f_-XL6qIqihgZGZ2y4WdRQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lovemama-new-york?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 6989,
+    "categories": [
+      {
+        "alias": "thai",
+        "title": "Thai"
+      },
+      {
+        "alias": "malaysian",
+        "title": "Malaysian"
+      },
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 40.730387,
+      "longitude": -73.986093
+    },
+    "transactions": [
+      "delivery",
+      "pickup",
+      "restaurant_reservation"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "174 2nd Ave",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10003",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "174 2nd Ave",
+        "New York, NY 10003"
+      ]
+    },
+    "phone": "+12122545370",
+    "display_phone": "(212) 254-5370",
+    "distance": 2847.327065976998,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "cJ837cA4SILruB3ArOZiSw",
+    "alias": "bourbon-and-branch-new-york-city",
+    "name": "Bourbon and Branch",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/fcnNvy1CzDpKFcSO5rApJg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bourbon-and-branch-new-york-city?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 220,
+    "categories": [
+      {
+        "alias": "bars",
+        "title": "Bars"
+      },
+      {
+        "alias": "venues",
+        "title": "Venues & Event Spaces"
+      },
+      {
+        "alias": "tradamerican",
+        "title": "American"
+      }
+    ],
+    "rating": 4.3,
+    "coordinates": {
+      "latitude": 40.750283184636864,
+      "longitude": -73.99048926047125
+    },
+    "transactions": [],
+    "location": {
+      "address1": "155 W 33rd St",
+      "address2": null,
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10001",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "155 W 33rd St",
+        "New York, NY 10001"
+      ]
+    },
+    "phone": "+19294194951",
+    "display_phone": "(929) 419-4951",
+    "distance": 4984.774962389483,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": true,
+            "start": "1130",
+            "end": "0100",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "1130",
+            "end": "0200",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0200",
+            "day": 5
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "hLXe3RVRK39VUSPdvBjFEA",
+    "alias": "kalye-new-york-5",
+    "name": "Kalye Broome",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/lIwFGGvKoBW9yaNGdH7lVA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/kalye-new-york-5?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 282,
+    "categories": [
+      {
+        "alias": "filipino",
+        "title": "Filipino"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.7179,
+      "longitude": -73.98999
+    },
+    "transactions": [
+      "pickup",
+      "restaurant_reservation",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "251 Broome St",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10002",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "251 Broome St",
+        "New York, NY 10002"
+      ]
+    },
+    "phone": "+16464227267",
+    "display_phone": "(646) 422-7267",
+    "distance": 1421.2220116212713,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.getsauce.com/order/kalye/menu?utm_source=lp_location_page&utm_medium=menu_link&utm_id=kalye",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "-_J1rWztwR5fXFSqC6yPDg",
+    "alias": "elephant-district-brooklyn",
+    "name": "Elephant District",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/3VPck8mjDL3xl0OudSoxAA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/elephant-district-brooklyn?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 107,
+    "categories": [
+      {
+        "alias": "thai",
+        "title": "Thai"
+      }
+    ],
+    "rating": 4.7,
+    "coordinates": {
+      "latitude": 40.702952,
+      "longitude": -73.993766
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "9 Old Fulton St",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11201",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "9 Old Fulton St",
+        "Brooklyn, NY 11201"
+      ]
+    },
+    "phone": "+18453143606",
+    "display_phone": "(845) 314-3606",
+    "distance": 289.2268916807466,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "FlZ1zdVEKWv7dwqm8Uw8-w",
+    "alias": "raku-new-york-7",
+    "name": "Raku",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/dnK1LeMWtP-mjvbneT8UJw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/raku-new-york-7?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 1790,
+    "categories": [
+      {
+        "alias": "japanese",
+        "title": "Japanese"
+      },
+      {
+        "alias": "noodles",
+        "title": "Noodles"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 40.7264988089246,
+      "longitude": -73.9866526052356
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "342 E 6th St",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10003",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "342 E 6th St",
+        "New York, NY 10003"
+      ]
+    },
+    "phone": "+12122281324",
+    "display_phone": "(212) 228-1324",
+    "distance": 2416.6027147072045,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2130",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2130",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2130",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2130",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2130",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://rakunyc.com/pages/menu-east-village",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "NN3mOWF5e_pnR1ArqM2bHQ",
+    "alias": "obao-new-york-3",
+    "name": "Obao",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/CpVI2XJLrvg09Fm83bfPog/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/obao-new-york-3?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 4421,
+    "categories": [
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      },
+      {
+        "alias": "thai",
+        "title": "Thai"
+      },
+      {
+        "alias": "asianfusion",
+        "title": "Asian Fusion"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 40.7606544,
+      "longitude": -73.991332
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "647 9th Ave",
+      "address2": "",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10036",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "647 9th Ave",
+        "New York, NY 10036"
+      ]
+    },
+    "phone": "+12122458880",
+    "display_phone": "(212) 245-8880",
+    "distance": 6132.820728042439,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2230",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2230",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2230",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2230",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2330",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2330",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2230",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.obaony.com/menu-hk",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "1VTv1wBwzzcD9k7qxC7L2g",
+    "alias": "the-parlour-room-new-york",
+    "name": "The Parlour Room",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/m9KDsKhaJ4sYy5vlKlgguQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-parlour-room-new-york?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 236,
+    "categories": [
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "tapasmallplates",
+        "title": "Tapas/Small Plates"
+      }
+    ],
+    "rating": 4.3,
+    "coordinates": {
+      "latitude": 40.75066199820444,
+      "longitude": -73.986111391996
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "70 W 36th St",
+      "address2": "1B",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10018",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "70 W 36th St",
+        "1B",
+        "New York, NY 10018"
+      ]
+    },
+    "phone": "+19172615495",
+    "display_phone": "(917) 261-5495",
+    "distance": 5063.552406268548,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1530",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1530",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1530",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1530",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "1530",
+            "end": "0100",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "1130",
+            "end": "0100",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.parlourroomnyc.com/menus/",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "9I8mZXCkGZBmFh5fYOYorw",
+    "alias": "em-vietnamese-bistro-brooklyn",
+    "name": "Em Vietnamese Bistro",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/X5x7qygyUV4-zNKwHiUuZg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/em-vietnamese-bistro-brooklyn?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 221,
+    "categories": [
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      },
+      {
+        "alias": "noodles",
+        "title": "Noodles"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.3,
+    "coordinates": {
+      "latitude": 40.70275,
+      "longitude": -73.99127
+    },
+    "transactions": [
+      "pickup",
+      "restaurant_reservation",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "57 Front St",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11201",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "57 Front St",
+        "Brooklyn, NY 11201"
+      ]
+    },
+    "phone": "+17188757888",
+    "display_phone": "(718) 875-7888",
+    "distance": 396.0574509711437,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1600",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1600",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1600",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1600",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2130",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1600",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2130",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1600",
+            "day": 6
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.emrestaurants.com/menu",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "WJS06XxRdc6DD1s4LWE9HA",
+    "alias": "fish-cheeks-new-york",
+    "name": "Fish Cheeks",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/pqupe3fe52869QQ23KkiBg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/fish-cheeks-new-york?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 1827,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "thai",
+        "title": "Thai"
+      },
+      {
+        "alias": "raw_food",
+        "title": "Live/Raw Food"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 40.72609096760865,
+      "longitude": -73.99271975092492
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "55 Bond St",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10012",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "55 Bond St",
+        "New York, NY 10012"
+      ]
+    },
+    "phone": "+12126772223",
+    "display_phone": "(212) 677-2223",
+    "distance": 2288.2721218247807,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.fishcheeksnyc.com/menus/",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "4DInnPhOyvXFbYpUdO0SMQ",
+    "alias": "antidote-brooklyn-2",
+    "name": "Antidote",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/uDHtsjZttICiM56EnmgzvQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/antidote-brooklyn-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 583,
+    "categories": [
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "dimsum",
+        "title": "Dim Sum"
+      },
+      {
+        "alias": "szechuan",
+        "title": "Szechuan"
+      }
+    ],
+    "rating": 4.6,
+    "coordinates": {
+      "latitude": 40.714186,
+      "longitude": -73.965493
+    },
+    "transactions": [
+      "pickup",
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "66 S 2nd St",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11249",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "66 S 2nd St",
+        "Brooklyn, NY 11249"
+      ]
+    },
+    "phone": "+17187822585",
+    "display_phone": "(718) 782-2585",
+    "distance": 2613.4542446200444,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1215",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1215",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1215",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1215",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1215",
+            "end": "2230",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1215",
+            "end": "2230",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1215",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://antidoteny.com/menu",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "-XYp6w50XbZfS90YddS5ew",
+    "alias": "soothr-new-york-2",
+    "name": "Soothr",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/1RRQwnop5QPQrProVG2AcA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/soothr-new-york-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 1654,
+    "categories": [
+      {
+        "alias": "thai",
+        "title": "Thai"
+      },
+      {
+        "alias": "noodles",
+        "title": "Noodles"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 40.732259,
+      "longitude": -73.987363
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "204 E 13th St",
+      "address2": "",
+      "address3": null,
+      "city": "New York",
+      "zip_code": "10003",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "204 E 13th St",
+        "New York, NY 10003"
+      ]
+    },
+    "phone": "+12128449789",
+    "display_phone": "(212) 844-9789",
+    "distance": 3031.818788296325,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1530",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1530",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1530",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1530",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1530",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1530",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1530",
+            "day": 6
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.soothr.site/our-menu/",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "4aF0F8w7yXX9o5_QFky_ig",
+    "alias": "celestine-brooklyn",
+    "name": "Celestine",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/hu_f8SC_qVSX7BocyEXEBg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/celestine-brooklyn?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 352,
+    "categories": [
+      {
+        "alias": "mediterranean",
+        "title": "Mediterranean"
+      },
+      {
+        "alias": "diners",
+        "title": "Diners"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 3.9,
+    "coordinates": {
+      "latitude": 40.704676,
+      "longitude": -73.987975
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "1 John St",
+      "address2": "",
+      "address3": null,
+      "city": "Brooklyn",
+      "zip_code": "11201",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "1 John St",
+        "Brooklyn, NY 11201"
+      ]
+    },
+    "phone": "+17185225356",
+    "display_phone": "(718) 522-5356",
+    "distance": 538.8101166249323,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 6
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://celestinebk.com/menu",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "mPHPVJ2-8mOR-lFHafrc6w",
+    "alias": "evelina-brooklyn-2",
+    "name": "Evelina",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/hG3aShzVvdnbAFm02sQgZw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/evelina-brooklyn-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 471,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 40.689722,
+      "longitude": -73.971003
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "211 Dekalb Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Brooklyn",
+      "zip_code": "11205",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "211 Dekalb Ave",
+        "Brooklyn, NY 11205"
+      ]
+    },
+    "phone": "+19292980209",
+    "display_phone": "(929) 298-0209",
+    "distance": 2634.2701105554243,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1530",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1530",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1530",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1530",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2230",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1530",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2230",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1530",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2230",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1530",
+            "day": 6
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "B3_K2kUVbYOU0VaLcj_LTw",
+    "alias": "thai-villa-new-york-2",
+    "name": "Thai Villa",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/PYopFnTm-C0yA-v0lePQcQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/thai-villa-new-york-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 5210,
+    "categories": [
+      {
+        "alias": "thai",
+        "title": "Thai"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 40.73902,
+      "longitude": -73.99065
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "5 E 19th St",
+      "address2": "G Floor",
+      "address3": "",
+      "city": "New York",
+      "zip_code": "10003",
+      "country": "US",
+      "state": "NY",
+      "display_address": [
+        "5 E 19th St",
+        "G Floor",
+        "New York, NY 10003"
+      ]
+    },
+    "phone": "+12128029999",
+    "display_phone": "(212) 802-9999",
+    "distance": 3733.2340039118267,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1515",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2215",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1515",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2215",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1515",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2215",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1515",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2215",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1515",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2230",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1515",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2230",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1515",
+            "day": 6
+          },
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2215",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  }
+]

@@ -1,0 +1,2054 @@
+[
+  {
+    "id": "QueFVMcMlT-6aZFv2M47mg",
+    "alias": "bottega-san-francisco-2",
+    "name": "Bottega",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/IawDcF1QmHSzUQDczHYVuw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bottega-san-francisco-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 1481,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "pastashops",
+        "title": "Pasta Shops"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 4.3,
+    "coordinates": {
+      "latitude": 37.75472,
+      "longitude": -122.4212
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "1132 Valencia St",
+      "address2": null,
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94158",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "1132 Valencia St",
+        "San Francisco, CA 94158"
+      ]
+    },
+    "phone": "+14156559048",
+    "display_phone": "(415) 655-9048",
+    "distance": 1506.2503434999724,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.bottegavalencia.com/_files/ugd/936480_46fcdc775c5a44dca45457333c4372a5.pdf",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "f-m7-hyFzkf0HSEeQ2s-9A",
+    "alias": "fog-harbor-fish-house-san-francisco-2",
+    "name": "Fog Harbor Fish House",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/by8Hh63BLPv_HUqRUdsp_w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/fog-harbor-fish-house-san-francisco-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 11878,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "wine_bars",
+        "title": "Wine Bars"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 37.80900878660344,
+      "longitude": -122.41031730819844
+    },
+    "transactions": [
+      "restaurant_reservation"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "39 Pier",
+      "address2": "",
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94133",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "39 Pier",
+        "San Francisco, CA 94133"
+      ]
+    },
+    "phone": "+14154212442",
+    "display_phone": "(415) 421-2442",
+    "distance": 5821.523804716284,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "pE4NRp_G7-lgHUqxjRM8ww",
+    "alias": "jilli-san-francisco-2",
+    "name": "Jilli",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/vBl7TqFkcQKYXgM_8sU-gw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/jilli-san-francisco-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 40,
+    "categories": [
+      {
+        "alias": "korean",
+        "title": "Korean"
+      },
+      {
+        "alias": "tapas",
+        "title": "Tapas Bars"
+      },
+      {
+        "alias": "asianfusion",
+        "title": "Asian Fusion"
+      }
+    ],
+    "rating": 4.8,
+    "coordinates": {
+      "latitude": 37.76669,
+      "longitude": -122.41782
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "1503 15th St",
+      "address2": null,
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94103",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "1503 15th St",
+        "San Francisco, CA 94103"
+      ]
+    },
+    "phone": "+14155158840",
+    "display_phone": "(415) 515-8840",
+    "distance": 1745.955655208518,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1430",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1430",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "AlWyJJ8aH58MSXFujDvhag",
+    "alias": "supreme-dumpling-stonestown-san-francisco-2",
+    "name": "Supreme Dumpling Stonestown",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Sy-VOGRErAEs8CVrTSbigw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/supreme-dumpling-stonestown-san-francisco-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 930,
+    "categories": [
+      {
+        "alias": "dimsum",
+        "title": "Dim Sum"
+      },
+      {
+        "alias": "shanghainese",
+        "title": "Shanghainese"
+      },
+      {
+        "alias": "taiwanese",
+        "title": "Taiwanese"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 37.72786943093416,
+      "longitude": -122.4775318917923
+    },
+    "transactions": [
+      "restaurant_reservation"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "3251 20th Ave",
+      "address2": "Ste 219A",
+      "address3": null,
+      "city": "San Francisco",
+      "zip_code": "94132",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "3251 20th Ave",
+        "Ste 219A",
+        "San Francisco, CA 94132"
+      ]
+    },
+    "phone": "+18778394283",
+    "display_phone": "(877) 839-4283",
+    "distance": 5151.610712405552,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.supreme-dumplings.com/menu",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "THpTY0X_xwRzUL7wYD6dDg",
+    "alias": "sisterita-san-francisco",
+    "name": "Sisterita",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/3xq9EiaM5iCjtbxup1PZ8w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sisterita-san-francisco?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 861,
+    "categories": [
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "newamerican",
+        "title": "New American"
+      },
+      {
+        "alias": "thai",
+        "title": "Thai"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 37.793966,
+      "longitude": -122.404206
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "669 Commercial St",
+      "address2": null,
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94111",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "669 Commercial St",
+        "San Francisco, CA 94111"
+      ]
+    },
+    "phone": "+14156491919",
+    "display_phone": "(415) 649-1919",
+    "distance": 4646.057762123511,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1400",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1400",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1400",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1400",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1400",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1430",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1430",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://static1.squarespace.com/static/63b7ab9c787cf723f12d4684/t/64d9cac06679b51079658ced/1691994822686/Menu+August+2023.pdf",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "BoEUjuDEb6dPiTSIo4XFDw",
+    "alias": "sobakatsu-san-francisco",
+    "name": "Sobakatsu",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/QL8PQlq5pA5oZAh-MzMjrA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sobakatsu-san-francisco?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 180,
+    "categories": [
+      {
+        "alias": "japanese",
+        "title": "Japanese"
+      },
+      {
+        "alias": "noodles",
+        "title": "Noodles"
+      },
+      {
+        "alias": "soup",
+        "title": "Soup"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 37.78687547454153,
+      "longitude": -122.42821
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "1700 Laguna St",
+      "address2": "",
+      "address3": null,
+      "city": "San Francisco",
+      "zip_code": "94115",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "1700 Laguna St",
+        "San Francisco, CA 94115"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 2977.756689574676,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "1900",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.sobakatsu03.com/menu",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "8dUaybEPHsZMgr1iKgqgMQ",
+    "alias": "sotto-mare-san-francisco-4",
+    "name": "Sotto Mare",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/o3hIcGLMxV_5ynxEjGWGrw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sotto-mare-san-francisco-4?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 5715,
+    "categories": [
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      },
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "bars",
+        "title": "Bars"
+      }
+    ],
+    "rating": 4.3,
+    "coordinates": {
+      "latitude": 37.79979,
+      "longitude": -122.40834
+    },
+    "transactions": [
+      "delivery",
+      "restaurant_reservation",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "552 Green St",
+      "address2": "",
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94133",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "552 Green St",
+        "San Francisco, CA 94133"
+      ]
+    },
+    "phone": "+14153983181",
+    "display_phone": "(415) 398-3181",
+    "distance": 4980.8804673363975,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.sottomaresf.com/menu",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "lUUQi1b2rV3glIn4t2I1Iw",
+    "alias": "horsefeather-san-francisco-4",
+    "name": "Horsefeather",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/p2wRBRoxrBLzirWLG0Fk1Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/horsefeather-san-francisco-4?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 718,
+    "categories": [
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "newamerican",
+        "title": "New American"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 37.774507,
+      "longitude": -122.437427
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "528 Divisadero St",
+      "address2": "",
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94117",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "528 Divisadero St",
+        "San Francisco, CA 94117"
+      ]
+    },
+    "phone": "+14158171939",
+    "display_phone": "(415) 817-1939",
+    "distance": 1514.8624498232032,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1400",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1400",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1400",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1400",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "1400",
+            "end": "0200",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "http://www.horsefeatherbar.com/menu",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "uUifmxOmL8ClHXyRVsmD3Q",
+    "alias": "bodega-san-francisco-3",
+    "name": "Bodega",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/CNR6OGg54OWzBTWrY9PMyA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bodega-san-francisco-3?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 770,
+    "categories": [
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      },
+      {
+        "alias": "noodles",
+        "title": "Noodles"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 37.784837858877935,
+      "longitude": -122.4093022
+    },
+    "transactions": [],
+    "location": {
+      "address1": "138 Mason St",
+      "address2": null,
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94102",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "138 Mason St",
+        "San Francisco, CA 94102"
+      ]
+    },
+    "phone": "+14156559341",
+    "display_phone": "(415) 655-9341",
+    "distance": 3574.5895267450232,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2230",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2230",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 6
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.bodegarestaurants.com/menu",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "nWAAZW2TuY4EqqzcqD_W8A",
+    "alias": "le-soleil-san-francisco-6",
+    "name": "Le Soleil",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/-HuyEbJ56S9tiTtgfI4Lvg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/le-soleil-san-francisco-6?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 32,
+    "categories": [
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      },
+      {
+        "alias": "asianfusion",
+        "title": "Asian Fusion"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.2,
+    "coordinates": {
+      "latitude": 37.727881,
+      "longitude": -122.477064
+    },
+    "transactions": [],
+    "location": {
+      "address1": "3251 20th Ave",
+      "address2": "Ste 221",
+      "address3": null,
+      "city": "San Francisco",
+      "zip_code": "94132",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "3251 20th Ave",
+        "Ste 221",
+        "San Francisco, CA 94132"
+      ]
+    },
+    "phone": "+14158778899",
+    "display_phone": "(415) 877-8899",
+    "distance": 5128.504172402969,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2030",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2030",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2030",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2030",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.lesoleilsf.com/menu",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "6H1OUNCD9NwB-WyaFvJqtA",
+    "alias": "altamirano-restaurant-and-bar-san-francisco",
+    "name": "Altamirano Restaurant & Bar",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/7UyT-gLU1NebU4sjebDZig/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/altamirano-restaurant-and-bar-san-francisco?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 90,
+    "categories": [
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "peruvian",
+        "title": "Peruvian"
+      },
+      {
+        "alias": "wine_bars",
+        "title": "Wine Bars"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 37.77569512234432,
+      "longitude": -122.4458693
+    },
+    "transactions": [],
+    "location": {
+      "address1": "1775 Fulton St",
+      "address2": null,
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94117",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "1775 Fulton St",
+        "San Francisco, CA 94117"
+      ]
+    },
+    "phone": "+14159477007",
+    "display_phone": "(415) 947-7007",
+    "distance": 1841.906808302439,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2130",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2130",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2130",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2230",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2230",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://altamiranosf.com/menus",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "SIIBwgrR7Rl71mE_mVzdIQ",
+    "alias": "aji-kiji-san-francisco",
+    "name": "Aji Kiji",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/NQt9qInn1gatgoXZe7riEQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/aji-kiji-san-francisco?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 173,
+    "categories": [
+      {
+        "alias": "sushi",
+        "title": "Sushi Bars"
+      }
+    ],
+    "rating": 4.6,
+    "coordinates": {
+      "latitude": 37.784065,
+      "longitude": -122.432577
+    },
+    "transactions": [],
+    "price": "$$$",
+    "location": {
+      "address1": "1552 Fillmore St",
+      "address2": null,
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94115",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "1552 Fillmore St",
+        "San Francisco, CA 94115"
+      ]
+    },
+    "phone": "+14158293057",
+    "display_phone": "(415) 829-3057",
+    "distance": 2596.143603699975,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1600",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1600",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1600",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1600",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1600",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "54FhPcut3uFDbpNCRWUOlQ",
+    "alias": "milos-meze-san-francisco",
+    "name": "Milos Meze",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/FlloUo5Wz8vVWM2PsKSuZA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/milos-meze-san-francisco?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 180,
+    "categories": [
+      {
+        "alias": "greek",
+        "title": "Greek"
+      },
+      {
+        "alias": "mediterranean",
+        "title": "Mediterranean"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 4.8,
+    "coordinates": {
+      "latitude": 37.80033324594831,
+      "longitude": -122.43767
+    },
+    "transactions": [
+      "delivery",
+      "restaurant_reservation",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "3348 Steiner St",
+      "address2": "",
+      "address3": null,
+      "city": "San Francisco",
+      "zip_code": "94123",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "3348 Steiner St",
+        "San Francisco, CA 94123"
+      ]
+    },
+    "phone": "+14156559967",
+    "display_phone": "(415) 655-9967",
+    "distance": 4386.156693441433,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://milosmeze.com/menu/",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "t3QmVUNrUWhz3zoLagzc-g",
+    "alias": "do-re-mi-san-francisco",
+    "name": "Do-Re-Mi",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/e1atyWJ8fe7qagd8J8ChTg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/do-re-mi-san-francisco?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 24,
+    "categories": [
+      {
+        "alias": "asianfusion",
+        "title": "Asian Fusion"
+      },
+      {
+        "alias": "desserts",
+        "title": "Desserts"
+      }
+    ],
+    "rating": 4.8,
+    "coordinates": {
+      "latitude": 37.75994,
+      "longitude": -122.42112
+    },
+    "transactions": [],
+    "location": {
+      "address1": "3491 19th St",
+      "address2": null,
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94110",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "3491 19th St",
+        "San Francisco, CA 94110"
+      ]
+    },
+    "phone": "+14158006792",
+    "display_phone": "(415) 800-6792",
+    "distance": 1348.8318107369132,
+    "business_hours": [],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "lz7EgaxedlmKRq9hrFkulA",
+    "alias": "khao-tiew-san-francisco-2",
+    "name": "Khao Tiew",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/_bQdKBs9_yoDNqCxchIcRA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/khao-tiew-san-francisco-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 343,
+    "categories": [
+      {
+        "alias": "thai",
+        "title": "Thai"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 37.741091,
+      "longitude": -122.465071
+    },
+    "transactions": [
+      "restaurant_reservation"
+    ],
+    "location": {
+      "address1": "272 Claremont Blvd",
+      "address2": null,
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94127",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "272 Claremont Blvd",
+        "San Francisco, CA 94127"
+      ]
+    },
+    "phone": "+14159961919",
+    "display_phone": "(415) 996-1919",
+    "distance": 3344.417410671468,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2030",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2030",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2030",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2030",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2030",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2030",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "bwBIIsyJxDSPHXzDPNVZ0w",
+    "alias": "little-original-joe-s-san-francisco",
+    "name": "Little Original Joe\u2019s",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/-r8cZUQXPXbIQG1oaiD9Hg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/little-original-joe-s-san-francisco?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 300,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 37.80007651069674,
+      "longitude": -122.44131790345232
+    },
+    "transactions": [],
+    "price": "$$$",
+    "location": {
+      "address1": "2301 Chestnut St",
+      "address2": null,
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94123",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "2301 Chestnut St",
+        "San Francisco, CA 94123"
+      ]
+    },
+    "phone": "+14157121895",
+    "display_phone": "(415) 712-1895",
+    "distance": 4377.273188050788,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1030",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1030",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "ZSzXw0NgJTyOzcHwKY5eMA",
+    "alias": "blind-butcher-san-francisco-2",
+    "name": "Blind Butcher",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/t1KuqpdFv2vM_EIgi-RLjQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/blind-butcher-san-francisco-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 504,
+    "categories": [
+      {
+        "alias": "newamerican",
+        "title": "New American"
+      },
+      {
+        "alias": "wine_bars",
+        "title": "Wine Bars"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 37.76116,
+      "longitude": -122.43414
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "4058 18th St",
+      "address2": null,
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94114",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "4058 18th St",
+        "San Francisco, CA 94114"
+      ]
+    },
+    "phone": "+14155292478",
+    "display_phone": "(415) 529-2478",
+    "distance": 208.376792182,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 6
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://blindbutchersf.com/wp-content/uploads/2021/06/BB_Menu_June2021.pdf",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "3LkA8q9hM8afDOsAkaZWpA",
+    "alias": "cach\u00e9-san-francisco-7",
+    "name": "Cach\u00e9",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/a8xD9GBkCf0xGyRYB3_g9Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cach%C3%A9-san-francisco-7?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 90,
+    "categories": [
+      {
+        "alias": "french",
+        "title": "French"
+      },
+      {
+        "alias": "desserts",
+        "title": "Desserts"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 4.3,
+    "coordinates": {
+      "latitude": 37.76526,
+      "longitude": -122.46672
+    },
+    "transactions": [],
+    "price": "$$$",
+    "location": {
+      "address1": "1235 9th Ave",
+      "address2": "",
+      "address3": null,
+      "city": "San Francisco",
+      "zip_code": "94122",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "1235 9th Ave",
+        "San Francisco, CA 94122"
+      ]
+    },
+    "phone": "+14155718164",
+    "display_phone": "(415) 571-8164",
+    "distance": 2710.6162432255273,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1400",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1400",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1400",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2130",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1400",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2130",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1400",
+            "day": 6
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://cache-sf.com/menu/",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "fcDjVeQrbnHL9XOxzpFhLQ",
+    "alias": "morella-san-francisco",
+    "name": "Morella",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/7aDEipwhW-Gukb3ZJg8Riw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/morella-san-francisco?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 142,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "argentine",
+        "title": "Argentine"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 37.800660681457025,
+      "longitude": -122.436435778786
+    },
+    "transactions": [],
+    "location": {
+      "address1": "2001 Chestnut St",
+      "address2": null,
+      "address3": "",
+      "city": "San Francisco",
+      "zip_code": "94123",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "2001 Chestnut St",
+        "San Francisco, CA 94123"
+      ]
+    },
+    "phone": "+16282869698",
+    "display_phone": "(628) 286-9698",
+    "distance": 4421.249122385585,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1630",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0200",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.morellasf.com/menu",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "4efDL5Sbi_rmafTeD-RW9A",
+    "alias": "shoji-san-francisco-3",
+    "name": "Shoji",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/pNKznuTh8zxCHP4uB4SWxQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/shoji-san-francisco-3?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 198,
+    "categories": [
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "japanese",
+        "title": "Japanese"
+      }
+    ],
+    "rating": 4.1,
+    "coordinates": {
+      "latitude": 37.7867175917242,
+      "longitude": -122.3997213524468
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "140 New Montgomery St",
+      "address2": "",
+      "address3": null,
+      "city": "San Francisco",
+      "zip_code": "94105",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "140 New Montgomery St",
+        "San Francisco, CA 94105"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 4319.861482541601,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1500",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1500",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1500",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1500",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1500",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1500",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1500",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  }
+]
