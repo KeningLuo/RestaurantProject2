@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "XgQ8riUvnMOBVfRG29NCEQ",
+    "alias": "anju-house-los-angeles-2",
+    "name": "Anju House",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/UNwuQr1wKngqYHez6bhBhA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/anju-house-los-angeles-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 542,
+    "categories": [
+      {
+        "alias": "korean",
+        "title": "Korean"
+      },
+      {
+        "alias": "bars",
+        "title": "Bars"
+      },
+      {
+        "alias": "tapasmallplates",
+        "title": "Tapas/Small Plates"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 34.0701519575396,
+      "longitude": -118.3076326
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "234 S Oxford Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Los Angeles",
+      "zip_code": "90004",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "234 S Oxford Ave",
+        "Los Angeles, CA 90004"
+      ]
+    },
+    "phone": "+12133155153",
+    "display_phone": "(213) 315-5153",
+    "distance": 1575.4777597101904,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": true,
+            "start": "1700",
+            "end": "0200",
+            "day": 0
+          },
+          {
+            "is_overnight": true,
+            "start": "1700",
+            "end": "0200",
+            "day": 1
+          },
+          {
+            "is_overnight": true,
+            "start": "1700",
+            "end": "0200",
+            "day": 2
+          },
+          {
+            "is_overnight": true,
+            "start": "1700",
+            "end": "0200",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "1700",
+            "end": "0200",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "z0zaCVA-p_5xTsyUZrmR0g",
+    "alias": "republique-los-angeles-6",
+    "name": "Republique",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Xy6oJ25E2QUzw_zsBD-dhA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/republique-los-angeles-6?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 7654,
+    "categories": [
+      {
+        "alias": "french",
+        "title": "French"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "bakeries",
+        "title": "Bakeries"
+      }
+    ],
+    "rating": 4.2,
+    "coordinates": {
+      "latitude": 34.06410110188345,
+      "longitude": -118.34379624529696
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "624 S La Brea Ave",
+      "address2": "",
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90036",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "624 S La Brea Ave",
+        "Los Angeles, CA 90036"
+      ]
+    },
+    "phone": "+13103626115",
+    "display_phone": "(310) 362-6115",
+    "distance": 2085.7086728444906,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1400",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1400",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1400",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1400",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1400",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1400",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "1400",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "http://republiquela.com/menu/",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "cal0Wpupxj9c_AV7WzDXsw",
+    "alias": "granville-west-hollywood-2",
+    "name": "GRANVILLE",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/znY6Wq1711cPvOtfKxWZZg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/granville-west-hollywood-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 3097,
+    "categories": [
+      {
+        "alias": "newamerican",
+        "title": "New American"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 34.07717021374287,
+      "longitude": -118.38068737404126
+    },
+    "transactions": [
+      "restaurant_reservation",
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "8701 Beverly Blvd",
+      "address2": null,
+      "address3": "",
+      "city": "West Hollywood",
+      "zip_code": "90048",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "8701 Beverly Blvd",
+        "West Hollywood, CA 90048"
+      ]
+    },
+    "phone": "+14245225161",
+    "display_phone": "(424) 522-5161",
+    "distance": 5731.043639924496,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.granvillerestaurants.com/menu-1",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "RbKA37rNQpgzKwkSPIzwVg",
+    "alias": "the-hollywood-rooftop-restaurant-and-bar-los-angeles-2",
+    "name": "The Hollywood Rooftop Restaurant & Bar",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/tXmqES4iqAiqWu_q_3lXjg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-hollywood-rooftop-restaurant-and-bar-los-angeles-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 72,
+    "categories": [
+      {
+        "alias": "tradamerican",
+        "title": "American"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.6,
+    "coordinates": {
+      "latitude": 34.101853,
+      "longitude": -118.341362
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "6933 Hollywood Blvd",
+      "address2": null,
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90028",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "6933 Hollywood Blvd",
+        "Los Angeles, CA 90028"
+      ]
+    },
+    "phone": "+13237981681",
+    "display_phone": "(323) 798-1681",
+    "distance": 4829.464265923072,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.madametussauds.com/hollywood/the-hollywood-rooftop/menu/",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "sXdOBghhw-ZU9S-1HxVZVA",
+    "alias": "bacari-silverlake-los-angeles-2",
+    "name": "Bacari Silverlake",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/BRJ4y_FXYhiUc1Qic0nYMQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bacari-silverlake-los-angeles-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 3473,
+    "categories": [
+      {
+        "alias": "mediterranean",
+        "title": "Mediterranean"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "italian",
+        "title": "Italian"
+      }
+    ],
+    "rating": 4.6,
+    "coordinates": {
+      "latitude": 34.090127,
+      "longitude": -118.277598
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "3626 Sunset Blvd",
+      "address2": null,
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90026",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "3626 Sunset Blvd",
+        "Los Angeles, CA 90026"
+      ]
+    },
+    "phone": "+13239866763",
+    "display_phone": "(323) 986-6763",
+    "distance": 5123.048010765949,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2300",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2300",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2300",
+            "day": 2
+          },
+          {
+            "is_overnight": true,
+            "start": "1700",
+            "end": "0030",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "1700",
+            "end": "0100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1030",
+            "end": "1430",
+            "day": 5
+          },
+          {
+            "is_overnight": true,
+            "start": "1600",
+            "end": "0100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1030",
+            "end": "1430",
+            "day": 6
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2300",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.eatwithbacari.com/silverlake",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "88kri8FhXy8b3DQ_QjSMmQ",
+    "alias": "l-antica-pizzeria-da-michele-los-angeles-2",
+    "name": "L'Antica Pizzeria Da Michele",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/pztvqojnku-2DHs4I_i-gg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/l-antica-pizzeria-da-michele-los-angeles-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 2437,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 4.3,
+    "coordinates": {
+      "latitude": 34.09907097431642,
+      "longitude": -118.3373093612014
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "1534 N Mccadden Pl",
+      "address2": "",
+      "address3": null,
+      "city": "Los Angeles",
+      "zip_code": "90028",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "1534 N Mccadden Pl",
+        "Los Angeles, CA 90028"
+      ]
+    },
+    "phone": "+13233662408",
+    "display_phone": "(323) 366-2408",
+    "distance": 4409.888167195842,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://damicheleusa.com/dinner-brunch/",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "h1R2iKYdm2lwukzMJvJqDw",
+    "alias": "hangari-kalguksu-los-angeles-4",
+    "name": "Hangari Kalguksu",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/X_U65O9YnvMyb42h1BZ0JQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/hangari-kalguksu-los-angeles-4?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 3047,
+    "categories": [
+      {
+        "alias": "korean",
+        "title": "Korean"
+      },
+      {
+        "alias": "noodles",
+        "title": "Noodles"
+      },
+      {
+        "alias": "comfortfood",
+        "title": "Comfort Food"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 34.0628602582049,
+      "longitude": -118.297570301258
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "3470 W 6th St",
+      "address2": "Ste 9&10",
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90020",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "3470 W 6th St",
+        "Ste 9&10",
+        "Los Angeles, CA 90020"
+      ]
+    },
+    "phone": "+12133882326",
+    "display_phone": "(213) 388-2326",
+    "distance": 2193.818218766019,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2230",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2230",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "3FlrvSaW-TSwkQDsCpKYEg",
+    "alias": "oste-los-angeles",
+    "name": "OSTE",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/ouEnhSVMs7uoAN9bWczzGg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/oste-los-angeles?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 1212,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "wine_bars",
+        "title": "Wine Bars"
+      }
+    ],
+    "rating": 4.6,
+    "coordinates": {
+      "latitude": 34.07211,
+      "longitude": -118.367363
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "8142 W 3rd St",
+      "address2": null,
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90048",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "8142 W 3rd St",
+        "Los Angeles, CA 90048"
+      ]
+    },
+    "phone": "+13234132372",
+    "display_phone": "(323) 413-2372",
+    "distance": 4394.681183507674,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2130",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2130",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2130",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.ostelosangeles.com/takeoutpinsa",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "fEY0zHaDMfIW3-N__joDKQ",
+    "alias": "bestia-los-angeles",
+    "name": "Bestia",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/FEYvAlR7utJdKmKJ-KhA6w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bestia-los-angeles?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 8163,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 4.3,
+    "coordinates": {
+      "latitude": 34.033657672296314,
+      "longitude": -118.22924462080344
+    },
+    "transactions": [
+      "delivery"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "2121 E 7th Pl",
+      "address2": "",
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90021",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "2121 E 7th Pl",
+        "Los Angeles, CA 90021"
+      ]
+    },
+    "phone": "+12135145724",
+    "display_phone": "(213) 514-5724",
+    "distance": 9039.399210482898,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2300",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2300",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2300",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2300",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2300",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://bestiala.com/menu/",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "T2Zawh5Sx4esmsbSu5vuuA",
+    "alias": "boiler-los-angeles",
+    "name": "Boiler",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/p5kUEg9DmGRqbsv25rT_Kw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/boiler-los-angeles?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 46,
+    "categories": [
+      {
+        "alias": "korean",
+        "title": "Korean"
+      },
+      {
+        "alias": "soup",
+        "title": "Soup"
+      }
+    ],
+    "rating": 4.8,
+    "coordinates": {
+      "latitude": 34.067829,
+      "longitude": -118.30872
+    },
+    "transactions": [
+      "restaurant_reservation",
+      "delivery",
+      "pickup"
+    ],
+    "location": {
+      "address1": "338 S Western Ave",
+      "address2": "Unit D",
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90020",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "338 S Western Ave",
+        "Unit D",
+        "Los Angeles, CA 90020"
+      ]
+    },
+    "phone": "+12132639356",
+    "display_phone": "(213) 263-9356",
+    "distance": 1348.2091092639303,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2100",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://boilerkfood.com/order",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "AIhWsp8yNfKZfaX9d9Yajg",
+    "alias": "pasta-sisters-los-angeles",
+    "name": "Pasta Sisters",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/sNmpWFXrt4WHVul1Ihzp_g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/pasta-sisters-los-angeles?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 2145,
+    "categories": [
+      {
+        "alias": "delis",
+        "title": "Delis"
+      },
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 34.0476,
+      "longitude": -118.317234
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "3343 W Pico Blvd",
+      "address2": "",
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90019",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "3343 W Pico Blvd",
+        "Los Angeles, CA 90019"
+      ]
+    },
+    "phone": "+13238705271",
+    "display_phone": "(323) 870-5271",
+    "distance": 1610.9030096641052,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2030",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2030",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2030",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2030",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2030",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2030",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.pastasisters.com/_files/ugd/af2956_e79b34925e8f410dab488caa8d076b3a.pdf",
+      "open24_hours": null,
+      "waitlist_reservation": false
+    }
+  },
+  {
+    "id": "TkFEKhsCixPWlShULKvMdQ",
+    "alias": "bottega-louie-los-angeles",
+    "name": "Bottega Louie",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/rAImnKvUNcNY8i6qEDWrZA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bottega-louie-los-angeles?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 19358,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "desserts",
+        "title": "Desserts"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 4.1,
+    "coordinates": {
+      "latitude": 34.047056,
+      "longitude": -118.256544
+    },
+    "transactions": [
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "700 S Grand Ave",
+      "address2": null,
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90017",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "700 S Grand Ave",
+        "Los Angeles, CA 90017"
+      ]
+    },
+    "phone": "+12138021470",
+    "display_phone": "(213) 802-1470",
+    "distance": 6187.230518693633,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://cdn.shopify.com/s/files/1/0011/1050/7556/files/FALL_WINTER_LUNCHDINNER_09292022.pdf?v=1664812278",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "ECW1Be-ffWL_oODG1y5fbw",
+    "alias": "vala-kitchen-los-angeles",
+    "name": "Vala Kitchen",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/TI-kIY5DqaGEJvqL_fJisQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/vala-kitchen-los-angeles?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 251,
+    "categories": [
+      {
+        "alias": "persian",
+        "title": "Persian/Iranian"
+      },
+      {
+        "alias": "mediterranean",
+        "title": "Mediterranean"
+      }
+    ],
+    "rating": 4.8,
+    "coordinates": {
+      "latitude": 34.09740933546539,
+      "longitude": -118.3227304
+    },
+    "transactions": [
+      "restaurant_reservation",
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "6110 W Sunset Blvd",
+      "address2": null,
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90028",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "6110 W Sunset Blvd",
+        "Los Angeles, CA 90028"
+      ]
+    },
+    "phone": "+13238000081",
+    "display_phone": "(323) 800-0081",
+    "distance": 3974.804671513203,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://valakitchen.com/menu",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "r2trRlI5k5GigjDeETq0uQ",
+    "alias": "laya-restaurant-los-angeles",
+    "name": "Laya Restaurant",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/OGmSocTnScaIazMItmPLCw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/laya-restaurant-los-angeles?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 254,
+    "categories": [
+      {
+        "alias": "mediterranean",
+        "title": "Mediterranean"
+      },
+      {
+        "alias": "lebanese",
+        "title": "Lebanese"
+      }
+    ],
+    "rating": 4.3,
+    "coordinates": {
+      "latitude": 34.09702878192855,
+      "longitude": -118.32915514118584
+    },
+    "transactions": [],
+    "location": {
+      "address1": "1430 N Cahuenga Blvd",
+      "address2": "",
+      "address3": null,
+      "city": "Los Angeles",
+      "zip_code": "90028",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "1430 N Cahuenga Blvd",
+        "Los Angeles, CA 90028"
+      ]
+    },
+    "phone": "+13234630006",
+    "display_phone": "(323) 463-0006",
+    "distance": 3995.7407120522794,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1800",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1800",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": true,
+            "start": "1800",
+            "end": "0100",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "1800",
+            "end": "0100",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "1800",
+            "end": "0100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1600",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": false
+    }
+  },
+  {
+    "id": "yGsnyyZD4Zpns0ty50tq8A",
+    "alias": "chubby-cattle-little-tokyo-los-angeles-2",
+    "name": "Chubby Cattle Little Tokyo",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/LhgimzfqeIBY2HTw16cAAQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/chubby-cattle-little-tokyo-los-angeles-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 2291,
+    "categories": [
+      {
+        "alias": "bbq",
+        "title": "Barbeque"
+      },
+      {
+        "alias": "japanese",
+        "title": "Japanese"
+      }
+    ],
+    "rating": 4.9,
+    "coordinates": {
+      "latitude": 34.048086,
+      "longitude": -118.240381
+    },
+    "transactions": [
+      "restaurant_reservation"
+    ],
+    "price": "$$$$",
+    "location": {
+      "address1": "356 E 2nd St",
+      "address2": null,
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90012",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "356 E 2nd St",
+        "Los Angeles, CA 90012"
+      ]
+    },
+    "phone": "+12132918043",
+    "display_phone": "(213) 291-8043",
+    "distance": 7610.595207762738,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2200",
+            "day": 3
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "1RJCu-0D5ZEnVRBKwqodGQ",
+    "alias": "great-white-los-angeles-2",
+    "name": "Great White",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/LyaoiXtGYaSF8aAn68fvig/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/great-white-los-angeles-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 783,
+    "categories": [
+      {
+        "alias": "newamerican",
+        "title": "New American"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.1,
+    "coordinates": {
+      "latitude": 34.07587723057971,
+      "longitude": -118.3233931
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "244 N Larchmont Blvd",
+      "address2": "",
+      "address3": null,
+      "city": "Los Angeles",
+      "zip_code": "90004",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "244 N Larchmont Blvd",
+        "Los Angeles, CA 90004"
+      ]
+    },
+    "phone": "+13237455059",
+    "display_phone": "(323) 745-5059",
+    "distance": 1589.744677798503,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": null,
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "pLP4joJ99UpIQpNh6kxZFw",
+    "alias": "girl-and-the-goat-los-angeles-2",
+    "name": "Girl & The Goat",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/2VKRg_SRqnu80Buoaayy3w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/girl-and-the-goat-los-angeles-2?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 2174,
+    "categories": [
+      {
+        "alias": "newamerican",
+        "title": "New American"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 34.04019,
+      "longitude": -118.233569
+    },
+    "transactions": [],
+    "location": {
+      "address1": "555-3 Mateo St",
+      "address2": "Ste 300",
+      "address3": null,
+      "city": "Los Angeles",
+      "zip_code": "90013",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "555-3 Mateo St",
+        "Ste 300",
+        "Los Angeles, CA 90013"
+      ]
+    },
+    "phone": "+12137994628",
+    "display_phone": "(213) 799-4628",
+    "distance": 8471.06545824351,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2130",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2130",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1400",
+            "day": 6
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2130",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.girlandthegoat.com/los-angeles/menu",
+      "open24_hours": null,
+      "waitlist_reservation": null
+    }
+  },
+  {
+    "id": "T4eGk9bvqtHS_M3IVlv72g",
+    "alias": "enchant-los-angeles",
+    "name": "Enchant",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/G-jl7I2lwPOIkqXBY3SXcg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/enchant-los-angeles?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 316,
+    "categories": [
+      {
+        "alias": "asianfusion",
+        "title": "Asian Fusion"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "wine_bars",
+        "title": "Wine Bars"
+      }
+    ],
+    "rating": 4.2,
+    "coordinates": {
+      "latitude": 34.060420911180366,
+      "longitude": -118.309614
+    },
+    "transactions": [
+      "restaurant_reservation"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "681 S Western Ave",
+      "address2": "",
+      "address3": null,
+      "city": "Los Angeles",
+      "zip_code": "90005",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "681 S Western Ave",
+        "Los Angeles, CA 90005"
+      ]
+    },
+    "phone": "+12135683195",
+    "display_phone": "(213) 568-3195",
+    "distance": 1089.5388492428103,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1700",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1700",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://www.enchant.la/blank",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "RVbZaawgEGmto6TxOoVBdQ",
+    "alias": "running-goose-los-angeles",
+    "name": "Running Goose",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/Hku9kEv-xBK26m5Z6Aj1dg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/running-goose-los-angeles?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 1919,
+    "categories": [
+      {
+        "alias": "gastropubs",
+        "title": "Gastropubs"
+      },
+      {
+        "alias": "latin",
+        "title": "Latin American"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 34.10052,
+      "longitude": -118.32927
+    },
+    "transactions": [
+      "restaurant_reservation",
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$",
+    "location": {
+      "address1": "1620 N Cahuenga Blvd",
+      "address2": "",
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90028",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "1620 N Cahuenga Blvd",
+        "Los Angeles, CA 90028"
+      ]
+    },
+    "phone": "+13234691080",
+    "display_phone": "(323) 469-1080",
+    "distance": 4380.601938107368,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2030",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2030",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2030",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2130",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2130",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1930",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://runningoose.com/dinner/",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  },
+  {
+    "id": "JhFb3lEHS8N6F3oMjJx1Iw",
+    "alias": "jemma-hollywood-los-angeles",
+    "name": "Jemma Hollywood",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/iBoSUnwOtz9j8ZKezpXuKg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/jemma-hollywood-los-angeles?adjust_creative=dhTdbp44mqktRrSbkrsAFQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=dhTdbp44mqktRrSbkrsAFQ",
+    "review_count": 311,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 34.10237501283114,
+      "longitude": -118.32733166957146
+    },
+    "transactions": [
+      "delivery",
+      "pickup"
+    ],
+    "price": "$$$",
+    "location": {
+      "address1": "1717 Vine Street",
+      "address2": null,
+      "address3": "",
+      "city": "Los Angeles",
+      "zip_code": "90028",
+      "country": "US",
+      "state": "CA",
+      "display_address": [
+        "1717 Vine Street",
+        "Los Angeles, CA 90028"
+      ]
+    },
+    "phone": "+13234509070",
+    "display_phone": "(323) 450-9070",
+    "distance": 4558.393686396945,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_temp_closed": null,
+      "menu_url": "https://jemmarestaurants.com/hollywood/menus",
+      "open24_hours": null,
+      "waitlist_reservation": true
+    }
+  }
+]
